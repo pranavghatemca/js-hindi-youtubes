@@ -1,0 +1,21 @@
+{
+  "name": "js-hindi-youtubes",
+  "version": "1.0.0",
+  "description": "A code repo for javascript at chai or code youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavghatemca/js-hindi-youtubes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pranavghatemca/js-hindi-youtubes/issues"
+  },
+  "homepage": "https://github.com/pranavghatemca/js-hindi-youtubes#readme"
+}
